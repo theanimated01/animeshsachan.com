@@ -824,7 +824,7 @@ export default function Home() {
                   </p>
                   <p className="text-white/80 leading-relaxed text-lg">
                     When I&apos;m not coding, you&apos;ll find me engrossed in my hobbies like traveling, gaming, racing, (or anything that gives me that adrenaline rush). 
-                    And obviosuly I also work on side projects - nothing groundbreaking (yet), but definitely entertaining enough to keep me awake past midnight.
+                    And obviously I also work on side projects - nothing groundbreaking (yet), but definitely entertaining enough to keep me awake past midnight.
                   </p>
                   <p className="text-white/80 leading-relaxed text-lg">
                     I&apos;m all about writing clean, efficient code—because who wants to debug a spaghetti mess at 3 a.m.?
