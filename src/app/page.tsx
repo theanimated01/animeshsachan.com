@@ -950,13 +950,13 @@ export default function Home() {
           <div className="flex flex-col gap-6 md:gap-8 justify-center items-center">
             {/* Email */}
             <motion.a
-              href="mailto:animesh636@ucsb.edu"
+              href="mailto:animesh010305@gmail.com"
               className="flex items-center gap-3 bg-transparent border-2 border-white text-white py-3 px-6 rounded-full text-lg hover:bg-white hover:text-black transition duration-300 ease-in-out relative"
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
               transition={{ duration: 1, delay: 0.5 }}
             >
-              <span className="font-mono text-xl">animesh636@ucsb.edu</span>
+              <span className="font-mono text-xl">animesh010305@gmail.com</span>
               <motion.div
                 className="absolute inset-0 border-2 border-white rounded-full animate-pulse"
                 style={{ animationDuration: "1.5s" }}
